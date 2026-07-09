@@ -1,120 +1,126 @@
-﻿﻿//Problem 1 
-// An automated conveyor belt processes 20 packages. Package IDs are generated from 1001 to 1020 using a loop.
-
-// For each package:
-
-// If the package ID is divisible by 4, it is marked as Quality Check Required.
-// Else if the package ID is divisible by 5, it is marked as Priority Shipment.
-// Otherwise, it is marked as Normal Processing.
-// At the end of the program, display:
-
-// Total packages processed
-// Number of packages requiring quality check
-// Number of priority shipments
-// Number of normal packages
-
-//Solution 1
-using System;
-
-class Program
+﻿﻿class Program
 {
-    static void Main()
+    static void Main(String[] args)
     {
-        int total = 0;
-        int qualityCheck = 0;
-        int priority = 0;
-        int normal = 0;
+        int age = 20;
+        Console.WriteLine("int: " + age);
 
-        for (int id = 1001; id <= 1020; id++)
-        {
-            total++;
+        long population = 100000000L;
+        Console.WriteLine("long: " + population);
 
-            if (id % 4 == 0)
-            {
-                qualityCheck++;
-                Console.WriteLine("Package " + id + " - Quality Check Required");
-            }
-            else if (id % 5 == 0)
-            {
-                priority++;
-                Console.WriteLine("Package " + id + " - Priority Shipment");
-            }
-            else
-            {
-                normal++;
-                Console.WriteLine("Package " + id + " - Normal Processing");
-            }
-        }
+        float percentage = 99.9f;
+        Console.WriteLine("float: " + percentage);
 
-        Console.WriteLine();
-        Console.WriteLine("Total packages processed: " + total);
-        Console.WriteLine("Quality check packages: " + qualityCheck);
-        Console.WriteLine("Priority shipments: " + priority);
-        Console.WriteLine("Normal packages: " + normal);
+        double pi = 3.1415;
+        Console.WriteLine("double: " + pi);
+
+        decimal salary = 50000.75m;
+        Console.WriteLine("decimal: " + salary);
+
+        char grade = 'A';
+        Console.WriteLine("char: " + grade);
+
+        string name = "rahul";
+        Console.WriteLine("string: " + name);
+
+        bool isStudent = true;
+        Console.WriteLine("bool: " + isStudent);
+
+        ConditionalStatment p = new ConditionalStatment();
+        p.displayed();
+
     }
+
 }
 
+///conditanol 
 
 
-
-
-// Problem 2
-// A smart city has 30 street lights numbered 1 to 30. The power consumption (in watts) for each light is calculated using the formula:
-
-// Power = 80 + (Light Number × 5)
-
-// For each street light:
-
-// If power consumption is greater than 180 W, display "Maintenance Required".
-// Else if power consumption is between 140 W and 180 W, display "Normal Operation".
-// Otherwise, display "Energy Efficient".
-// Also calculate and display:
-
-// Total power consumed by all street lights
-// Average power consumption
-// Number of lights in each category
 
 using System;
 
-class Program
+class ConditionalStatment
 {
-    static void Main()
+
+    public void displayed()
     {
-        int totalPower = 0;
-        int maintenance = 0;
-        int normal = 0;
-        int efficient = 0;
+        int age = 20;
+        int marks = 75;
+        bool hasLicense = true;
+        int day = 3;
 
-        for (int lightNumber = 1; lightNumber <= 30; lightNumber++)
+        // 1. if
+        Console.WriteLine("1. if Statement");
+        if (age >= 18)
         {
-            int power = 80 + (lightNumber * 5);
-            totalPower = totalPower + power;
+            Console.WriteLine("Eligible to vote");
+        }
 
-            if (power > 180)
+        // 2. if-else
+        Console.WriteLine("\n2. if-else Statement");
+        if (age >= 18)
+        {
+            Console.WriteLine("Adult");
+        }
+        else
+        {
+            Console.WriteLine("Minor");
+        }
+
+        // 3. if-else-if
+        Console.WriteLine("\n3. if-else-if Statement");
+        if (marks >= 90)
+        {
+            Console.WriteLine("Grade A");
+        }
+        else if (marks >= 75)
+        {
+            Console.WriteLine("Grade B");
+        }
+        else if (marks >= 50)
+        {
+            Console.WriteLine("Grade C");
+        }
+        else
+        {
+            Console.WriteLine("Fail");
+        }
+
+        // 4. Nested if
+        Console.WriteLine("\n4. Nested if Statement");
+        if (age >= 18)
+        {
+            if (hasLicense)
             {
-                maintenance++;
-                Console.WriteLine("Light " + lightNumber + ": " + power + " W -> Maintenance Required");
-            }
-            else if (power >= 140 && power <= 180)
-            {
-                normal++;
-                Console.WriteLine("Light " + lightNumber + ": " + power + " W -> Normal Operation");
+                Console.WriteLine("You can drive");
             }
             else
             {
-                efficient++;
-                Console.WriteLine("Light " + lightNumber + ": " + power + " W -> Energy Efficient");
+                Console.WriteLine("Get a driving license");
             }
         }
 
-        double averagePower = (double)totalPower / 30;
+        // 5. switch
+        Console.WriteLine("\n5. Switch Statement");
+        switch (day)
+        {
+            case 1:
+                Console.WriteLine("Monday");
+                break;
+            case 2:
+                Console.WriteLine("Tuesday");
+                break;
+            case 3:
+                Console.WriteLine("Wednesday");
+                break;
+            default:
+                Console.WriteLine("Invalid Day");
+                break;
+        }
 
-        Console.WriteLine();
-        
-        Console.WriteLine("Total power consumed: " + totalPower + " W");
-        Console.WriteLine("Average power consumption: " + averagePower.ToString("F2") + " W");
-        Console.WriteLine("Maintenance Required: " + maintenance + " lights");
-        Console.WriteLine("Normal Operation: " + normal + " lights");
-        Console.WriteLine("Energy Efficient: " + efficient + " lights");
+
+
+
     }
+
 }
