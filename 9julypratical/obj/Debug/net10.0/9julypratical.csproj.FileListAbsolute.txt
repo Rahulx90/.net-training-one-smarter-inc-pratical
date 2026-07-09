@@ -1,0 +1,4 @@
+C:\Users\rahul\Desktop\.netfunction\9julypratical\obj\Debug\net10.0\9julypratical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Desktop\.netfunction\9julypratical\obj\Debug\net10.0\9julypratical.AssemblyInfoInputs.cache
+C:\Users\rahul\Desktop\.netfunction\9julypratical\obj\Debug\net10.0\9julypratical.AssemblyInfo.cs
+C:\Users\rahul\Desktop\.netfunction\9julypratical\obj\Debug\net10.0\9julypratical.csproj.CoreCompileInputs.cache
