@@ -1,0 +1,14 @@
+C:\Users\rahul\Desktop\.netfunction\10julypratical\bin\Debug\net10.0\10julypratical.exe
+C:\Users\rahul\Desktop\.netfunction\10julypratical\bin\Debug\net10.0\10julypratical.deps.json
+C:\Users\rahul\Desktop\.netfunction\10julypratical\bin\Debug\net10.0\10julypratical.runtimeconfig.json
+C:\Users\rahul\Desktop\.netfunction\10julypratical\bin\Debug\net10.0\10julypratical.dll
+C:\Users\rahul\Desktop\.netfunction\10julypratical\bin\Debug\net10.0\10julypratical.pdb
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\10julypratical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\10julypratical.AssemblyInfoInputs.cache
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\10julypratical.AssemblyInfo.cs
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\10julypratical.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\10julypratical.dll
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\refint\10julypratical.dll
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\10julypratical.pdb
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\10julypratical.genruntimeconfig.cache
+C:\Users\rahul\Desktop\.netfunction\10julypratical\obj\Debug\net10.0\ref\10julypratical.dll
