@@ -1,0 +1,14 @@
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\Assignment5-13july.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\Assignment5-13july.AssemblyInfoInputs.cache
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\Assignment5-13july.AssemblyInfo.cs
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\Assignment5-13july.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\bin\Debug\net10.0\Assignment5-13july.exe
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\bin\Debug\net10.0\Assignment5-13july.deps.json
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\bin\Debug\net10.0\Assignment5-13july.runtimeconfig.json
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\bin\Debug\net10.0\Assignment5-13july.dll
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\bin\Debug\net10.0\Assignment5-13july.pdb
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\Assignment5-13july.dll
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\refint\Assignment5-13july.dll
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\Assignment5-13july.pdb
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\Assignment5-13july.genruntimeconfig.cache
+C:\Users\rahul\Desktop\.netfunction\Assignment5-13july\obj\Debug\net10.0\ref\Assignment5-13july.dll

@@ -1,0 +1,14 @@
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\bin\Debug\net10.0\Assignment3-9july.exe
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\bin\Debug\net10.0\Assignment3-9july.deps.json
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\bin\Debug\net10.0\Assignment3-9july.runtimeconfig.json
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\bin\Debug\net10.0\Assignment3-9july.dll
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\bin\Debug\net10.0\Assignment3-9july.pdb
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\Assignment3-9july.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\Assignment3-9july.AssemblyInfoInputs.cache
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\Assignment3-9july.AssemblyInfo.cs
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\Assignment3-9july.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\Assignment3-9july.dll
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\refint\Assignment3-9july.dll
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\Assignment3-9july.pdb
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\Assignment3-9july.genruntimeconfig.cache
+C:\Users\rahul\Desktop\.netfunction\Assignment3-9july\obj\Debug\net10.0\ref\Assignment3-9july.dll
