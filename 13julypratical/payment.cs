@@ -1,4 +1,0 @@
-interface Payment
-{
-    void Pay();
-}
