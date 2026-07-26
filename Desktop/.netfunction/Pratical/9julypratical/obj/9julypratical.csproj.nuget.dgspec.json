@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj": {}
+    "c:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj": {
+    "c:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj",
+        "projectUniqueName": "c:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj",
         "projectName": "9julypratical",
-        "projectPath": "C:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj",
+        "projectPath": "c:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\9julypratical.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\obj\\",
+        "outputPath": "c:\\Users\\rahul\\Desktop\\.netfunction\\Pratical\\9julypratical\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
