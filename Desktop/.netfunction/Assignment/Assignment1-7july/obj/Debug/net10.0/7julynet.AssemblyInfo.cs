@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7julynet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a732ec5c56827be38cea870fb1cfd6ba175abc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("7julynet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7julynet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
