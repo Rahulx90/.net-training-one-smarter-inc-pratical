@@ -1,1 +1,1 @@
-Pratical file of .net-training-one-smarter-inc
+Pratical File Of .Net-Training-One-Smarter-Inc
